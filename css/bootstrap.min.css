@@ -1,0 +1,44 @@
+.section-search input{
+	padding:5px !important;
+	font-size: 18px !important;
+	width: 90% !important;
+	border: #f4f4f4 3px solid !important;
+}
+
+.welcome{
+	position: relative;
+	background-image: url('../img/GSIER_ARIS_2017.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 40vh;
+}
+.welcome-inner{
+	position: center;
+	height:50vh;
+	
+	text-align: center;
+}
+
+
+.landing{
+	position: relative;
+	background-image: url('../img/GSIER_pic7.jpg');
+	background-size: cover;
+	background-position: center;
+	height: 60vh;
+}
+.landing-inner{
+	position: center;
+	height:60vh;
+	background: rgba(0, 0, 0, 0.7);
+	text-align: center;
+}
+
+.card-panel{
+	background: transparent;
+	color: ;
+}
+.navbar-fixed{
+	
+	height:50px; 
+}
